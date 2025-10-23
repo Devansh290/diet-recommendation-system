@@ -1,4 +1,4 @@
-# diet-recommendation-system
+# Diet-Recommendation-System
 Nutrition-based Recipe Recommendation System using Content-Based Filtering
 # 🍽️ Diet & Recipe Recommendation System
 
